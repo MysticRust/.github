@@ -27,7 +27,7 @@ Regular events, competitions, and tournaments that foster community engagement a
 
 We invite you to join our community! Whether you’re a seasoned player or new to Rust, there’s a place for you here. Connect with us on our Discord server to stay updated on events and projects.
 
-- **Discord**: [Join our server](https://discord.gg/yourdiscordlink)
+- **Discord**: [Join our server](https://discord.gg/Zzcbw36XRx)
 - **Website**: [Mystic Rust](https://mysticrust.eu)
 
 ## Contribution 🤗
